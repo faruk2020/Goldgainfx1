@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 27 Apr 2024 11:33:23 at https://magictradersignals.com/acessar/?utm_medium=paid&utm_source=fb&utm_id=23857845772440036&utm_content=23857848067010036&utm_term=23857848067020036&utm_campaign=23857845772440036&fbclid=IwZXh0bgNhZW0CMTAAAR2ZM46k79aNPPQS7RdJ_jTMXH-3XTzDfhGR-fCTjJz1j1vjosFyYe2RI04_aem_ATh5tvfpkSGAklf9XlxUtbZceSIAk_qjWf9_YsxoeXZJrTqB6wuCkvsEFqmbVfFxX5Kyhjk_9Zbmty7uSxGL0cqD +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://magictradersignals.com/acessar/?utm_medium=paid&utm_source=fb&utm_id=23857845772440036&utm_content=23857848067010036&utm_term=23857848067020036&utm_campaign=23857845772440036&fbclid=IwZXh0bgNhZW0CMTAAAR2ZM46k79aNPPQS7RdJ_jTMXH-3XTzDfhGR-fCTjJz1j1vjosFyYe2RI04_aem_ATh5tvfpkSGAklf9XlxUtbZceSIAk_qjWf9_YsxoeXZJrTqB6wuCkvsEFqmbVfFxX5Kyhjk_9Zbmty7uSxGL0cqD -O1 "C:\Users\USER\Desktop\mrx4mind" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:34:02	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://magictradersignals.com/acessar/?utm_medium=paid&utm_source=fb&utm_id=23857845772440036&utm_content=23857848067010036&utm_term=23857848067020036&utm_campaign=23857845772440036&fbclid=IwZXh0bgNhZW0CMTAAAR2ZM46k79aNPPQS7RdJ_jTMXH-3XTzDfhGR-fCTjJz1j1vjosFyYe2RI04_aem_ATh5tvfpkSGAklf9XlxUtbZceSIAk_qjWf9_YsxoeXZJrTqB6wuCkvsEFqmbVfFxX5Kyhjk_9Zbmty7uSxGL0cqD)
+11:34:02	Error: 	"Not Found" (404) at link https://magictradersignals.com/acessar/e.src (from https://magictradersignals.com/acessar/)
+11:34:02	Error: 	"Not Found" (404) at link https://magictradersignals.com/acessar/Firefox/ (from https://magictradersignals.com/acessar/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 44 seconds : 68 links scanned, 64 files written (4186401 bytes overall) [3223502 bytes received at 73261 bytes/sec], 1412392 bytes transferred using HTTP compression in 44 files, ratio 20%, 8.5 requests per connection
+(3 errors, 0 warnings, 0 messages)
